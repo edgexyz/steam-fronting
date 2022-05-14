@@ -1,0 +1,1 @@
+Derived from [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx).
